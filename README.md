@@ -35,6 +35,31 @@
 
 ---
 
+## 🚀 Como Rodar Localmente
+1. *Clone o repositório:*
+   ```bash
+   git clone https://github.com/leonard0antonio/Supermarket_Sales.git
+
+2. Entre na pasta do projeto:
+
+cd Supermarket_Sales
+
+
+3. Instale as dependências (recomenda-se usar um ambiente virtual):
+
+pip install pandas matplotlib seaborn
+
+
+4. Execute o script principal:
+
+python dashboard.py
+
+
+5. Abra o terminal ou console do Python e siga as instruções para visualizar os gráficos e interações do dashboard.
+
+
+---
+
 ## 📝 Lições Aprendidas
 - Prática de manipulação de dados com Pandas, criando filtros e agrupamentos.  
 - Criação de dashboards interativos sem depender de frameworks web.  
