@@ -30,7 +30,7 @@
 ---
 
 ## 🖼️ Capturas de Tela do Projeto
-- O repositório inclui um GIF (`demo.gif`) mostrando a interface do dashboard em funcionamento.  
+![Demo da aplicação](demo.gif)
 - Visualmente, o dashboard apresenta gráficos de barras, linhas e tabelas, permitindo ao usuário analisar vendas por categoria, total de vendas e outras métricas importantes.  
 
 ---
